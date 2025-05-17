@@ -4,3 +4,4 @@ strsplit1 <- function(x, split) {
 }
 
 # My first package
+load_all()
